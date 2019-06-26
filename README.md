@@ -1,4 +1,4 @@
-### The draft genome sequence for type strain Ideonella azotifigens DSMZ21438, a novel aerobic diazotroph of the Betaproteobacteria isolated from grass rhizosphere soil
+### The draft genome sequence for type strain *Ideonella azotifigens* DSMZ21438, a novel aerobic diazotroph of the Betaproteobacteria isolated from grass rhizosphere soil
 
 Manuscript is currently submitted
 
