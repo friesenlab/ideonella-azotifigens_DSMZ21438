@@ -12,6 +12,9 @@ This repo holds a workflow script to process Illumina sequencing read data with 
 
 **Data**
 
+Raw and quality controls reads, assemblies, and annotations are also at Open Science Framework (OSF) repo https://osf.io/r9y3g/
+NCBI GenBank BioProject number is PRJNA550449. [link](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA550449/) 
+
 The informatics point-of-contact for this project is [Dr. Richard Allen White III](https://github.com/raw937).<br />
 If you have any questions or feedback, please feel free to get in touch by email. Dr. Richard Allen White III - raw937@gmail.com.  <br />
 Or [open an issue](https://github.com/friesenlab/ideonella-azotifigens_DSMZ21438/issues).
