@@ -8,7 +8,7 @@ Journal Article is: Richard Allen White III, Jeff Norman, Emily E. Mclachlan, Jo
 
 **Analysis**
 
-This repo holds scripts to process Illumina sequencing read data with trimming and removal of phiX174, assemble quality controlled reads and annotate the genome. 
+This repo holds a workflow script to process Illumina sequencing read data with quality trimming and removal of phiX174, *de novo* genome assembly of quality controlled sequence reads and to annotate the genome. 
 
 **Data**
 
