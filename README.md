@@ -4,7 +4,7 @@ Manuscript is currently in process
 
 This is the code and data for this article. 
 
-Journal Article is: Richard Allen White III, Jeff Norman, Emily E. Mclachlan, Joseph P. Dunham, Aaron Garoutte, Maren L. Friesen **The draft genome sequence for type strain *Ideonella azotifigens* DSMZ21438, a novel aerobic diazotroph of the Betaproteobacteria isolated from grass rhizosphere soil.** *Microbiology Resource Announcements (MRA).* 
+Journal Article is: Richard Allen White III, Jeff Norman, Emily E. Mclachlan, Joseph P. Dunham, Aaron Garoutte, Maren L. Friesen **The draft genome sequence for type strain *Ideonella azotifigens* DSMZ21438, a novel aerobic diazotroph of the Betaproteobacteria isolated from grass rhizosphere soil.** *MDPI Pre-Prints.* 
 
 **Analysis**
 
